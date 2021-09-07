@@ -1,0 +1,11 @@
+#nav {
+  padding: 15px 0 0 0;
+  z-index: 2 !important;
+  position: absolute;
+  width: 100%;
+}
+
+#nav a {
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
